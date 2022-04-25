@@ -26,26 +26,26 @@ See also [Lean's general documentation](https://leanprover.github.io/documentati
 We indicate which source files contain the main definitions and results described in the paper.
 
 ### Section 2
-* Adic valuations on Dedekind domains: [src/valuation.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/valuation.lean).
-* The finite adèle ring of a Dedekind domain: [src/adeles_R.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/adeles_R.lean).
-* The finite idèle group of a Dedekind domain: [src/ideles_R.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_R.lean).
-* Factorization of fractional ideals: [src/fractional_ideal.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/fractional_ideal.lean).
+* Adic valuations on Dedekind domains: [src/valuation.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/valuation.lean).
+* The finite adèle ring of a Dedekind domain: [src/adeles_R.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/adeles_R.lean).
+* The finite idèle group of a Dedekind domain: [src/ideles_R.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_R.lean).
+* Factorization of fractional ideals: [src/fractional_ideal.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/fractional_ideal.lean).
 
 ### Section 3
-* The ring of adèles of a number field: [src/adeles_number_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/adeles_number_field.lean).
-* The group of idèles of a number field: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_number_field.lean).
-* The idèle class group of a number field: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_number_field.lean).
+* The ring of adèles of a number field: [src/adeles_number_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/adeles_number_field.lean).
+* The group of idèles of a number field: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_number_field.lean).
+* The idèle class group of a number field: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_number_field.lean).
 
 ### Section 4
-* The place at infinity on `k(t)`: [function_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/function_field.lean).
-* The ring of adèles of a function field: [src/adeles_function_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/adeles_function_field.lean).
-* The group of idèles of a function field: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_function_field.lean).
-* The idèle class group of a function field: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_function_field.lean).
+* The place at infinity on `k(t)`: [function_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/function_field.lean).
+* The ring of adèles of a function field: [src/adeles_function_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/adeles_function_field.lean).
+* The group of idèles of a function field: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_function_field.lean).
+* The idèle class group of a function field: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_function_field.lean).
 
 ### Section 5
-* The ideal class group of a number field is a quotient of the idèle class group: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_number_field.lean).
-* The ideal class group of a function field is a quotient of the idèle class group: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/ideles_function_field.lean).
-* The statement of the main theorem of global class field theory: [src/main_theorem_GCFT.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/main_theorem_GCFT.lean).
-* The abelianization of the absolute Galois group: [src/galois.lean](https://github.com/mariainesdff/ideles-journal-repository/blob/master/src/galois.lean).
+* The ideal class group of a number field is a quotient of the idèle class group: [src/ideles_number_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_number_field.lean).
+* The ideal class group of a function field is a quotient of the idèle class group: [src/ideles_function_field.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/ideles_function_field.lean).
+* The statement of the main theorem of global class field theory: [src/main_theorem_GCFT.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/main_theorem_GCFT.lean).
+* The abelianization of the absolute Galois group: [src/galois.lean](https://github.com/mariainesdff/ideles-journal/blob/master/src/galois.lean).
 
 Copyright (C) 2022, María Inés de Frutos-Fernández

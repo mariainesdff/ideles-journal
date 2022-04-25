@@ -373,7 +373,7 @@ lemma valuation_lt_one_iff_dvd (r : R) :
   v.valuation_def (algebra_map R K r) < 1 ↔ v.as_ideal ∣ ideal.span {r} :=
 by { rw valuation_of_algebra_map, exact v.int_valuation_lt_one_iff_dvd r }
 
-/-- The `v`-adic valuation of `0 : R` equals 0. -/
+/-- The `v`-adic valuation of `0 : K` equals 0. -/
 lemma valuation.map_zero' (v : maximal_spectrum R) :
   v.valuation_def (0 : K) = 0 := 
 begin
@@ -381,7 +381,7 @@ begin
   exact v.int_valuation.map_zero',
 end
 
-/-- The `v`-adic valuation of `1 : R` equals 1. -/
+/-- The `v`-adic valuation of `1 : K` equals 1. -/
 lemma valuation.map_one' (v : maximal_spectrum R) :
   v.valuation_def (1 : K) = 1 := 
 begin
